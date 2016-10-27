@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="50dp"
+        android:layout_height="50dp" 
+        android:layout_marginBottom="5dp"
+	 	android:layout_marginLeft="5dp"
+	 	android:layout_marginRight="5dp"
+	 	android:layout_marginTop="5dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="145dp"
+        android:layout_height="wrap_content"
+        android:text="Pizza1"
+        android:textColor="#FFFF00"
+        android:textSize="25sp" 
+        android:paddingTop="5dp"/>
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+		android:text="Pizza1"
+        android:textColor="#FFFF00"
+        android:textSize="10sp" 
+        android:layout_marginRight="15dp"
+        android:paddingTop="5dp"/>
+
+    <Button
+        android:id="@+id/pagar"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFF00"
+        android:text="Ingredientes"
+        android:textSize="10sp" 
+        android:focusable="false"/>
+
+</LinearLayout>

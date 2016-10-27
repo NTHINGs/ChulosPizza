@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="3dip"
+    android:paddingTop="2dip"
+    android:textColor="#FFFF00"
+    android:textSize="18sp" />
+
+<!-- From: file:/home/nthings/Dropbox/Tecno/6to%20semestre/Ing.%20De%20Software/Proyectito/AppAndroidStudio/app/src/main/res/layout/pedido.xml -->

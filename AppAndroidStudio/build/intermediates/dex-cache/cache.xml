@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/commons-io-2.4-09e255bc4b9af1494eda2f5552fe22fd78e09fcc.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="572e54e8a1acce65303f6688286160e9d2dc4329">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/unity-classes-5c4aa295b2fa6ab479fcd9cbb2a1ea545dff0763.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5ded462e366d1ffce9ce31e0361479181b1d28fe.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6abbc0ed30f8d82dd98f7e34fdb4230a6d520fc3.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-d95b48a39ea8aa2f1907547cecaf56125a08ca68.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-8f7772d89bb3f7771cee1f3785b2d0e52eaac560.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/PayPalAndroidSDK-2.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afd52bb6c8e272c0c2c38db26f908fcabce8e3c0">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/PayPalAndroidSDK-2.9.1-8b761d372f03f2cf62ce40961bc890004b09cf5d.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/commons-io-2.4-09e255bc4b9af1494eda2f5552fe22fd78e09fcc.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/mysql-connector-java-3.0.17-ga-bin.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d8b493d12562fc904a947ea7b84394fe67e8a55">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/mysql-connector-java-3.0.17-ga-bin-9ae3fdaa379245aa2a2b02cea9cad89abe5d3b8a.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-d95b48a39ea8aa2f1907547cecaf56125a08ca68.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/PayPalAndroidSDK-2.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afd52bb6c8e272c0c2c38db26f908fcabce8e3c0">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/PayPalAndroidSDK-2.9.1-8b761d372f03f2cf62ce40961bc890004b09cf5d.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-3cb4bc734fec4895eab13e71c49c82c0105fb365.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-8f7772d89bb3f7771cee1f3785b2d0e52eaac560.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6abbc0ed30f8d82dd98f7e34fdb4230a6d520fc3.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/libs/mysql-connector-java-3.0.17-ga-bin.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d8b493d12562fc904a947ea7b84394fe67e8a55">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/mysql-connector-java-3.0.17-ga-bin-9ae3fdaa379245aa2a2b02cea9cad89abe5d3b8a.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5ded462e366d1ffce9ce31e0361479181b1d28fe.jar" />
+    </item>
+    <item
+        jar="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-3cb4bc734fec4895eab13e71c49c82c0105fb365.jar" />
+    </item>
+
+</items>

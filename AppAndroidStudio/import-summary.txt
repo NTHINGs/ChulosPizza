@@ -1,0 +1,180 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+/home/nthings/Dropbox/Tecno/6to semestre/Ing. De Software/Proyectito/AppAndroidStudio
+                               -             -  -                                    
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* PayPal-Android-SDK-master/
+* PayPal-Android-SDK-master/LICENSE.md
+* PayPal-Android-SDK-master/README.md
+* PayPal-Android-SDK-master/SampleApp/
+* PayPal-Android-SDK-master/SampleApp/.classpath
+* PayPal-Android-SDK-master/SampleApp/.gitignore
+* PayPal-Android-SDK-master/SampleApp/.project
+* PayPal-Android-SDK-master/SampleApp/.settings/
+* PayPal-Android-SDK-master/SampleApp/.settings/org.eclipse.jdt.ui.prefs
+* PayPal-Android-SDK-master/SampleApp/AndroidManifest.xml
+* PayPal-Android-SDK-master/SampleApp/README.md
+* PayPal-Android-SDK-master/SampleApp/ant.properties
+* PayPal-Android-SDK-master/SampleApp/build.gradle
+* PayPal-Android-SDK-master/SampleApp/build.xml
+* PayPal-Android-SDK-master/SampleApp/gradle/
+* PayPal-Android-SDK-master/SampleApp/gradle/wrapper/
+* PayPal-Android-SDK-master/SampleApp/gradle/wrapper/gradle-wrapper.jar
+* PayPal-Android-SDK-master/SampleApp/gradle/wrapper/gradle-wrapper.properties
+* PayPal-Android-SDK-master/SampleApp/gradlew
+* PayPal-Android-SDK-master/SampleApp/gradlew.bat
+* PayPal-Android-SDK-master/SampleApp/libs/
+* PayPal-Android-SDK-master/SampleApp/libs/PayPalAndroidSDK-2.9.1.jar
+* PayPal-Android-SDK-master/SampleApp/libs/arm64-v8a/
+* PayPal-Android-SDK-master/SampleApp/libs/arm64-v8a/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/libcardioRecognizer.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/libcardioRecognizer_tegra2.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/libopencv_core.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi-v7a/libopencv_imgproc.so
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi/
+* PayPal-Android-SDK-master/SampleApp/libs/armeabi/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/mips/
+* PayPal-Android-SDK-master/SampleApp/libs/mips/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/mips64/
+* PayPal-Android-SDK-master/SampleApp/libs/mips64/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/x86/
+* PayPal-Android-SDK-master/SampleApp/libs/x86/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/libs/x86_64/
+* PayPal-Android-SDK-master/SampleApp/libs/x86_64/libcardioDecider.so
+* PayPal-Android-SDK-master/SampleApp/paypal-proguard.cnf
+* PayPal-Android-SDK-master/SampleApp/proguard-project.txt
+* PayPal-Android-SDK-master/SampleApp/project.properties
+* PayPal-Android-SDK-master/SampleApp/res/
+* PayPal-Android-SDK-master/SampleApp/res/drawable-hdpi/
+* PayPal-Android-SDK-master/SampleApp/res/drawable-hdpi/ic_launcher.png
+* PayPal-Android-SDK-master/SampleApp/res/drawable-mdpi/
+* PayPal-Android-SDK-master/SampleApp/res/drawable-mdpi/ic_launcher.png
+* PayPal-Android-SDK-master/SampleApp/res/drawable-xhdpi/
+* PayPal-Android-SDK-master/SampleApp/res/drawable-xhdpi/ic_launcher.png
+* PayPal-Android-SDK-master/SampleApp/res/drawable-xxxhdpi/
+* PayPal-Android-SDK-master/SampleApp/res/drawable-xxxhdpi/ic_launcher.png
+* PayPal-Android-SDK-master/SampleApp/res/layout/
+* PayPal-Android-SDK-master/SampleApp/res/layout/activity_main.xml
+* PayPal-Android-SDK-master/SampleApp/res/values-sw600dp/
+* PayPal-Android-SDK-master/SampleApp/res/values-sw600dp/dimens.xml
+* PayPal-Android-SDK-master/SampleApp/res/values-sw720dp-land/
+* PayPal-Android-SDK-master/SampleApp/res/values-sw720dp-land/dimens.xml
+* PayPal-Android-SDK-master/SampleApp/res/values-v11/
+* PayPal-Android-SDK-master/SampleApp/res/values-v11/styles.xml
+* PayPal-Android-SDK-master/SampleApp/res/values-v14/
+* PayPal-Android-SDK-master/SampleApp/res/values-v14/styles.xml
+* PayPal-Android-SDK-master/SampleApp/res/values/
+* PayPal-Android-SDK-master/SampleApp/res/values/dimens.xml
+* PayPal-Android-SDK-master/SampleApp/res/values/strings.xml
+* PayPal-Android-SDK-master/SampleApp/src/
+* PayPal-Android-SDK-master/SampleApp/src/com/
+* PayPal-Android-SDK-master/SampleApp/src/com/paypal/
+* PayPal-Android-SDK-master/SampleApp/src/com/paypal/example/
+* PayPal-Android-SDK-master/SampleApp/src/com/paypal/example/paypalandroidsdkexample/
+* PayPal-Android-SDK-master/SampleApp/src/com/paypal/example/paypalandroidsdkexample/SampleActivity.java
+* PayPal-Android-SDK-master/acknowledgments.md
+* PayPal-Android-SDK-master/docs/
+* PayPal-Android-SDK-master/docs/future_payment_error_codes.md
+* PayPal-Android-SDK-master/docs/future_payments_mobile.md
+* PayPal-Android-SDK-master/docs/future_payments_server.md
+* PayPal-Android-SDK-master/docs/ja/
+* PayPal-Android-SDK-master/docs/ja/README.md
+* PayPal-Android-SDK-master/docs/ja/future_payment_error_codes.md
+* PayPal-Android-SDK-master/docs/ja/future_payments_mobile.md
+* PayPal-Android-SDK-master/docs/ja/future_payments_server.md
+* PayPal-Android-SDK-master/docs/ja/profile_sharing_mobile.md
+* PayPal-Android-SDK-master/docs/ja/profile_sharing_server.md
+* PayPal-Android-SDK-master/docs/ja/single_payment.md
+* PayPal-Android-SDK-master/docs/profile_sharing_mobile.md
+* PayPal-Android-SDK-master/docs/profile_sharing_server.md
+* PayPal-Android-SDK-master/docs/single_payment.md
+* PayPal-Android-SDK-master/docs/supplemental_errors.md
+* PayPal-Android-SDK-master/libs/
+* PayPal-Android-SDK-master/libs/PayPalAndroidSDK-2.9.1.jar
+* PayPal-Android-SDK-master/libs/arm64-v8a/
+* PayPal-Android-SDK-master/libs/arm64-v8a/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/armeabi-v7a/
+* PayPal-Android-SDK-master/libs/armeabi-v7a/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/armeabi-v7a/libcardioRecognizer.so
+* PayPal-Android-SDK-master/libs/armeabi-v7a/libcardioRecognizer_tegra2.so
+* PayPal-Android-SDK-master/libs/armeabi-v7a/libopencv_core.so
+* PayPal-Android-SDK-master/libs/armeabi-v7a/libopencv_imgproc.so
+* PayPal-Android-SDK-master/libs/armeabi/
+* PayPal-Android-SDK-master/libs/armeabi/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/mips/
+* PayPal-Android-SDK-master/libs/mips/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/mips64/
+* PayPal-Android-SDK-master/libs/mips64/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/x86/
+* PayPal-Android-SDK-master/libs/x86/libcardioDecider.so
+* PayPal-Android-SDK-master/libs/x86_64/
+* PayPal-Android-SDK-master/libs/x86_64/libcardioDecider.so
+* PayPal-Android-SDK-master/paypal-proguard.cnf
+* PayPal-Android-SDK-master/release_notes.md
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/PayPalAndroidSDK-2.9.1.jar => app/libs/PayPalAndroidSDK-2.9.1.jar
+* libs/arm64-v8a/libcardioDecider.so => app/src/main/jniLibs/arm64-v8a/libcardioDecider.so
+* libs/armeabi-v7a/libcardioDecider.so => app/src/main/jniLibs/armeabi-v7a/libcardioDecider.so
+* libs/armeabi-v7a/libcardioRecognizer.so => app/src/main/jniLibs/armeabi-v7a/libcardioRecognizer.so
+* libs/armeabi-v7a/libcardioRecognizer_tegra2.so => app/src/main/jniLibs/armeabi-v7a/libcardioRecognizer_tegra2.so
+* libs/armeabi-v7a/libopencv_core.so => app/src/main/jniLibs/armeabi-v7a/libopencv_core.so
+* libs/armeabi-v7a/libopencv_imgproc.so => app/src/main/jniLibs/armeabi-v7a/libopencv_imgproc.so
+* libs/armeabi/libcardioDecider.so => app/src/main/jniLibs/armeabi/libcardioDecider.so
+* libs/mips/libcardioDecider.so => app/src/main/jniLibs/mips/libcardioDecider.so
+* libs/mips64/libcardioDecider.so => app/src/main/jniLibs/mips64/libcardioDecider.so
+* libs/x86/libcardioDecider.so => app/src/main/jniLibs/x86/libcardioDecider.so
+* libs/x86_64/libcardioDecider.so => app/src/main/jniLibs/x86_64/libcardioDecider.so
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
